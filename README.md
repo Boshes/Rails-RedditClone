@@ -1,2 +1,2 @@
 # Ruby-RedditClone
-Reddit clone created using Ruby on Rails.
+Reddit website clone created using Ruby on Rails.
